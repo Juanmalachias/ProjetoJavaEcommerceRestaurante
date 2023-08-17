@@ -1,1 +1,1 @@
-# ProjetoJavaEcommerceRestaurante
+# Projeto Java E-commerce Restaurante
